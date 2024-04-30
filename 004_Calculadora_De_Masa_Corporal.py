@@ -1,0 +1,5 @@
+print(" Calculadora de masa corporal ")
+Peso=(float(input(" ingre su peso (kg) ")))
+Altura=(float(input(" ingrese si altura (M) ")))
+resolucion=Peso/(Altura*Altura)
+print(f" El peso corporal es de {resolucion:.2f}")
