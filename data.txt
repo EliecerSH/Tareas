@@ -1,0 +1,27 @@
+---informe de venta---
+              1.pan
+              Cantidad vendida = 0 monto ingresado = $0
+              2.Pie de limón
+              Cantidad vendida = 2 monto ingresado = $7000
+              3.cafe
+              Cantidad vendida = 3 monto ingresado = $6600
+              4.te
+              cantidad vendida = 3 monto ingresado = $4800
+              5.Alfajor
+              cantidad vendida = 2 monto ingresado = $2000
+              
+              -TOTAL A PAGAR= $20400
+             ---informe de venta---
+              1.pan
+              Cantidad vendida = 0 monto ingresado = $0
+              2.Pie de limón
+              Cantidad vendida = 2 monto ingresado = $7000
+              3.cafe
+              Cantidad vendida = 3 monto ingresado = $6600
+              4.te
+              cantidad vendida = 3 monto ingresado = $4800
+              5.Alfajor
+              cantidad vendida = 2 monto ingresado = $2000
+              
+              -TOTAL A PAGAR= $20400
+             
